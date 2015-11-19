@@ -1,0 +1,2035 @@
+ 
+
+
+
+
+
+
+    
+ 
+
+
+
+Get Free App
+
+
+
+
+
+
+
+
+Sign in / Sign Up
+
+
+
+
+
+
+
+
+Notifications
+
+
+
+
+
+
+    
+        
+            
+            
+            
+HomeupgradeRadioDiscoverbrowsefavoritesPlaylistsapps
+            
+                
+                    
+
+        
+
+
+
+
+
+                
+            
+        
+        
+            
+                
+    Overviewtop chartsnew releasesartistsFriends Feed
+    
+        Languages 0 Selected
+        
+        
+            HindiEnglishTamilTeluguPunjabiMarathiBengaliBhojpuriOthers
+            Save
+         
+    
+
+
+    
+
+
+
+
+
+    New Releases
+        
+    
+        
+            {"id":"1506548","title":"Tamasha","index":0,"source":2,"source_id":"1506548","content_source":"","path":"","objtype":2,"trackcount":"9","track_ids":"15550381,15630937,15630948,15630949,15630950,15630951,15630953,15630954,15868078","object_type":2,"status":"0","share_url":"\/album\/tamasha-hindi","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/48\/1506548\/crop_80x80_1506548.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Tamasha
+                                            
+                            A. R. Rahman                        
+                    
+            
+        
+            {"id":"1526786","title":"Hate Story 3","index":0,"source":2,"source_id":"1526786","content_source":"","path":"","objtype":2,"trackcount":"4","track_ids":"15883903,15922065,16046848,16046897","object_type":2,"status":"0","share_url":"\/album\/hate-story-3","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/86\/1526786\/crop_80x80_1526786.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Hate Story 3
+                                            
+                            Armaan Malik                        
+                    
+            
+        
+            {"id":"1545992","title":"Purpose ( Deluxe)","index":0,"source":2,"source_id":"1545992","content_source":"","path":"","objtype":2,"trackcount":"17","track_ids":"16115407,16115408,16115409,16115410,16115411,16115412,16115413,16115414,16115415,16115416,16115417,16115418,16115420,16115421,16115422,16115423,16115424","object_type":2,"status":"0","share_url":"\/album\/purpose-deluxe","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/92\/1545992\/crop_80x80_1545992.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Purpose ( Deluxe)
+                                            
+                            Justin Bieber                        
+                    
+            
+        
+            {"id":"1506065","title":"Prem Ratan Dhan Payo","index":0,"source":2,"source_id":"1506065","content_source":"","path":"","objtype":2,"trackcount":"10","track_ids":"15546178,15550395,15550396,15550399,15550400,15550401,15550402,15550403,15550404,15550405","object_type":2,"status":"0","share_url":"\/album\/prem-ratan-dhan-payo","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/65\/1506065\/crop_80x80_1506065.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Prem Ratan Dhan Payo
+                                            
+                            Himesh Reshammiya                        
+                    
+            
+        
+            {"id":"1499052","title":"Bajirao Mastani","index":0,"source":2,"source_id":"1499052","content_source":"","path":"","objtype":2,"trackcount":"2","track_ids":"15497677,15868065","object_type":2,"status":"0","share_url":"\/album\/bajirao-mastani","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/52\/1499052\/crop_80x80_1499052.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Bajirao Mastani
+                                            
+                            Sanjay Leela Bhansali                        
+                    
+            
+        
+            {"id":"1545334","title":"Adventure Of A Lifetime","index":0,"source":2,"source_id":"1545334","content_source":"","path":"","objtype":2,"trackcount":"1","track_ids":"16108743","object_type":2,"status":"0","share_url":"\/album\/adventure-of-a-lifetime","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/34\/1545334\/crop_80x80_1545334.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Adventure Of A Lifetime
+                                            
+                            Coldplay                        
+                    
+            
+        
+            {"id":"1506105","title":"Shaandaar","index":0,"source":2,"source_id":"1506105","content_source":"","path":"","objtype":2,"trackcount":"2","track_ids":"15546576,15883959","object_type":2,"status":"0","share_url":"\/album\/shaandaar-hindi","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/5\/1506105\/crop_80x80_1506105.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Shaandaar
+                                            
+                            Mikey McCleary                        
+                    
+            
+        
+            {"id":"1510222","title":"Main Aur Charles","index":0,"source":2,"source_id":"1510222","content_source":"","path":"","objtype":2,"trackcount":"1","track_ids":"15609828","object_type":2,"status":"0","share_url":"\/album\/main-aur-charles-hindi","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/22\/1510222\/crop_80x80_1510222.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Main Aur Charles
+                                            
+                            Kanika Kapoor                        
+                    
+            
+        
+            {"id":"1536554","title":"Delirium ( Deluxe)","index":0,"source":2,"source_id":"1536554","content_source":"","path":"","objtype":2,"trackcount":"22","track_ids":"16004291,16004292,16004293,16004294,16004295,16004296,16004297,16004298,16004299,16004300,16004301,16004302,16004303,16004304,16004305,16004306,16004307,16004308,16004309,16004310,16004311,16004312","object_type":2,"status":"0","share_url":"\/album\/delirium-deluxe","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/54\/1536554\/crop_80x80_1536554.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Delirium ( Deluxe)
+                                            
+                            Ellie Goulding                        
+                    
+            
+        
+            {"id":"1472303","title":"Dheere Dheere","index":0,"source":2,"source_id":"1472303","content_source":"","path":"","objtype":2,"trackcount":"1","track_ids":"15292205","object_type":2,"status":"0","share_url":"\/album\/dheere-dheere","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/3\/1472303\/crop_80x80_1472303.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Dheere Dheere
+                                            
+                            Yo Yo Honey Singh                        
+                    
+            
+        
+            {"id":"1507119","title":"Main Aur Charles","index":0,"source":2,"source_id":"1507119","content_source":"","path":"","objtype":2,"trackcount":"7","track_ids":"15555729,15555730,15555732,15555733,15555734,15555735,15555736","object_type":2,"status":"0","share_url":"\/album\/main-aur-charles","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/19\/1507119\/crop_80x80_1507119.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Main Aur Charles
+                                            
+                            Aditya Trivedi                        
+                    
+            
+        
+            {"id":"1526966","title":"World On Fire","index":0,"source":2,"source_id":"1526966","content_source":"","path":"","objtype":2,"trackcount":"17","track_ids":"15884610,15884611,15884612,15884613,15884614,15884615,15884616,15884617,15884618,15884619,15884620,15884621,15884622,15884623,15884624,15884625,15884626","object_type":2,"status":"0","share_url":"\/album\/world-on-fire-english-2015","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/66\/1526966\/crop_80x80_1526966.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    World On Fire
+                                                    
+                                        Slash
+                            
+            
+        
+            {"id":"1507058","title":"Not A Dirty Film","index":0,"source":2,"source_id":"1507058","content_source":"","path":"","objtype":2,"trackcount":"4","track_ids":"15555275,15555276,15555277,15555279","object_type":2,"status":"0","share_url":"\/album\/not-a-dirty-film","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/58\/1507058\/crop_80x80_1507058.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Not A Dirty Film
+                                            
+                            Dev Sen                        
+                    
+            
+        
+            {"id":"1514162","title":"Vedalam (Original Motion Picture Soundtrack)","index":0,"source":2,"source_id":"1514162","content_source":"","path":"","objtype":2,"trackcount":"5","track_ids":"15692345,15692347,15692349,15692351,15692353","object_type":2,"status":"0","share_url":"\/album\/vedalam-original-motion-picture-soundtrack","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/62\/1514162\/crop_80x80_1514162.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Vedalam (Original Motion Picture Soundtrack)
+                                            
+                            Anirudh Ravichander                        
+                    
+            
+        
+            {"id":"1506802","title":"Revival ( Deluxe)","index":0,"source":2,"source_id":"1506802","content_source":"","path":"","objtype":2,"trackcount":"16","track_ids":"15552790,15552792,15552793,15552794,15552795,15552796,15552797,15552798,15552799,15552800,15552801,15552802,15552803,15552804,15552805,15552806","object_type":2,"status":"0","share_url":"\/album\/revival-deluxe-english","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/2\/1506802\/crop_80x80_1506802.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Revival ( Deluxe)
+                                            
+                            Selena Gomez                        
+                    
+            
+        
+            {"id":"1506586","title":"Bad Boy Tanmoy","index":0,"source":2,"source_id":"1506586","content_source":"","path":"","objtype":2,"trackcount":"1","track_ids":"15550764","object_type":2,"status":"0","share_url":"\/album\/bad-boy-tanmoy","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/86\/1506586\/crop_80x80_1506586.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Bad Boy Tanmoy
+                                                    
+                                        Tanmoy Saadhak
+                            
+            
+        
+            {"id":"1504834","title":"10 Endrathukulla (Original Motion Picture Soundtrack)","index":0,"source":2,"source_id":"1504834","content_source":"","path":"","objtype":2,"trackcount":"8","track_ids":"15536316,15536317,15536318,15536319,15536320,15536322,15536323,15536324","object_type":2,"status":"0","share_url":"\/album\/10-endrathukulla-original-motion-picture-soundtrack","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/34\/1504834\/crop_80x80_1504834.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    10 Endrathukulla (Original Motion Picture Soundtrack)
+                                            
+                            D. Imman                        
+                    
+            
+        
+            {"id":"1526760","title":"Perfect - EP","index":0,"source":2,"source_id":"1526760","content_source":"","path":"","objtype":2,"trackcount":"4","track_ids":"15883811,15883812,15883813,15883814","object_type":2,"status":"0","share_url":"\/album\/perfect-ep","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/60\/1526760\/crop_80x80_1526760.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Perfect - EP
+                    Various Artists
+            
+        
+            {"id":"1507011","title":"Vandanam","index":0,"source":2,"source_id":"1507011","content_source":"","path":"","objtype":2,"trackcount":"4","track_ids":"15554993,15554996,15554999,15555000","object_type":2,"status":"0","share_url":"\/album\/vandanam","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/11\/1507011\/crop_80x80_1507011.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Vandanam
+                    Various Artists
+            
+        
+            {"id":"1507068","title":"Sitarey","index":0,"source":2,"source_id":"1507068","content_source":"","path":"","objtype":2,"trackcount":"1","track_ids":"15555340","object_type":2,"status":"0","share_url":"\/album\/sitarey","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/68\/1507068\/crop_80x80_1507068.jpg"}
+            
+                
+                    
+                    
+                        
+                                                    
+                                                
+                            
+                                        
+
+
+
+
+                        
+                    
+                
+                
+                    
+                    Sitarey
+                                            
+                            Tigerstyle                        
+                    
+            
+         
+            
+           
+    
+ 
+
+
+
+        
+
+
+    featured playlists
+    
+        
+       
+             
+            
+                
+                {"source":3,"source_id":"3027567","object_type":3,"id":"3027567","status":"0","track_ids":"3328213,1205980,289737,1276,3370080,1591,640102,1458672,709747,2594250,1532564,1269225,709748,1109450,1534685,1214,14843646,2867022,1487198","trackcount":18,"objtype":3,"share_url":"\/playlist\/gaana-dj-best-of-monali-thakur","max_track_to_be_display":18,"title":"Best of Monali Thakur"}
+    
+
+                    
+
+                    
+                
+                
+Best of Monali Thakur18 Songs  1,658 Favorites
+                
+                    
+            
+
+                                        {"title":"Moh Moh Ke Dhaage (Female)","id":"3328213","path":"3328213","track_ids":"3328213","share_url":"\/song\/moh-moh-ke-dhaage-female","object_type":10,"status":"0","source":3,"duration":"322","source_id":"3027567","sType":"rtmp","content_source":"3","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/12\/297812\/crop_175x175_297812.jpg","albumtitle":"Dum Laga Ke Haisha","albumseokey":"dum-laga-ke-haisha","seokey":"moh-moh-ke-dhaage-female","artist":"Monali Thakur###566###Monali Thakur_566","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Moh Moh Ke Dhaage (Female)
+                                
+                                        
+                                                Dum Laga Ke Haisha         •
+                                 Monali Thakur                                
+                                       
+                                
+                                        {"title":"Sawaar Loon","id":"1205980","path":"1205980","track_ids":"1205980","share_url":"\/song\/sawaar-loon","object_type":10,"status":"0","source":3,"duration":"254","source_id":"3027567","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/6\/112006\/crop_175x175_112006.jpg","albumtitle":"Lootera","albumseokey":"lootera-hindi","seokey":"sawaar-loon","artist":"Monali Thakur###566###Monali Thakur_566","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Sawaar Loon
+                                
+                                        
+                                                Lootera         •
+                                 Monali Thakur                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"3658492","object_type":3,"id":"3658492","status":"0","track_ids":"67244,11083,21203,2721459,71071,16603,36830,16607,11524,9495,10047,5511,16365,67444,31894,44754,125569,67242,46586,67241,30253,55444,73217,78902,13291,61540,63045,57300,11525,68328,6415601,1618755,13903,34584,2831774,1643454,35334,1643420,14829,45169,71870,52555,68326,93042","trackcount":44,"objtype":3,"share_url":"\/playlist\/gaana-dj-baaps-of-retro-lyricists","max_track_to_be_display":44,"title":"Baaps of Retro Lyricists"}
+    
+
+                    
+
+                    
+                
+                
+Baaps of Retro Lyricists44 Songs  821 Favorites
+                
+                    
+            
+
+                                        {"title":"Mera Kuchh Samaan","id":"67244","path":null,"track_ids":"67244","share_url":"\/song\/mera-kuchh-samaan-1","object_type":10,"status":"0","source":3,"duration":"552","source_id":"3658492","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/62\/14462\/crop_175x175_14462.jpg","albumtitle":"Ijaazat","albumseokey":"ijaazat","seokey":"mera-kuchh-samaan-1","artist":"Asha Bhosle###252190###Asha Bhosle_252190","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Mera Kuchh Samaan
+                                
+                                        
+                                                Ijaazat         •
+                                 Asha Bhosle                                
+                                       
+                                
+                                        {"title":"Tum Ko Dekha To Yeh Khayal Aaya","id":"11083","path":null,"track_ids":"11083","share_url":"\/song\/tum-ko-dekha-to-yeh-khayal-aaya","object_type":10,"status":"0","source":3,"duration":"291","source_id":"3658492","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/67\/22667\/crop_175x175_22667.jpg","albumtitle":"Saath Saath","albumseokey":"saath-saath","seokey":"tum-ko-dekha-to-yeh-khayal-aaya","artist":"Chitra Singh###1444###Chitra Singh_1444,Jagjit Singh###54###Jagjit Singh_54","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Tum Ko Dekha To Yeh Khayal Aaya
+                                
+                                        
+                                                Saath Saath         •
+                                 Chitra Singh, Jagjit Singh                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"1038627","object_type":3,"id":"1038627","status":"0","track_ids":"15883903,15550381,15630948,15550395,15868065,15922065,14932673,15546178,15630937,16046848,3295219,14027344,14924270,15550396,3230458,11717602,15161810,14931941,3289313,3255482,15550400,15630949,15198426,15550399,13820852,16046897,14670106,15198425,14692650,15630951,3309657,15497677,11717595,15546576,15609828,3258187,3344089,15883959,3363064,15630950,14839808,14065604,3119906,15630954,3450512,11717603,3227052,15868078,14687282,6410794,3164328,14936599,14653141,14936601,14936604,15228214,11717596,3258189,6407395,14872358,14931942,15327336,3466040,14936600,14657122","trackcount":"50","objtype":3,"share_url":"\/playlist\/gaana-dj-bollywood-top-20","max_track_to_be_display":"50","title":"Bollywood Top 50"}
+    
+
+                    
+
+                    
+                
+                
+Bollywood Top 5050 Songs  461,164 Favorites
+                
+                    
+            
+
+                                        {"title":"Tumhe Apna Banane Ka","id":"15883903","path":"15883903","track_ids":"15883903","share_url":"\/song\/tumhe-apna-banane-ka","object_type":10,"status":"0","source":3,"duration":"310","source_id":"1038627","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/86\/1526786\/crop_175x175_1526786.jpg","albumtitle":"Hate Story 3","albumseokey":"hate-story-3","seokey":"tumhe-apna-banane-ka","artist":"Armaan Malik###73###Armaan Malik_73,Neeti Mohan###125941###Neeti Mohan_125941","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Tumhe Apna Banane Ka
+                                
+                                        
+                                                Hate Story 3         •
+                                 Armaan Malik, Neeti Mohan                                
+                                       
+                                
+                                        {"title":"Matargashti","id":"15550381","path":"15550381","track_ids":"15550381","share_url":"\/song\/matargashti","object_type":10,"status":"0","source":3,"duration":"328","source_id":"1038627","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/48\/1506548\/crop_175x175_1506548.jpg","albumtitle":"Tamasha","albumseokey":"tamasha-hindi","seokey":"matargashti","artist":"Mohit Chauhan###199###Mohit Chauhan_199","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Matargashti
+                                
+                                        
+                                                Tamasha         •
+                                 Mohit Chauhan                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"4148160","object_type":3,"id":"4148160","status":"0","track_ids":"14925783,15827553,15198516,14924267,14042569,15527698,3367164,14687806,14846158,15552790,15525628,14925593,13820385,15554984,13447732,13447735,14666107,15522186,3117395,3362628,15867786,15552792,3299582,13819855,15539049,14666347,14666851,14928546,15528939,14820038,3366089,3258104,15883812,15552793,3220695,12747667,15884610,3395420,15304254,13856847,15552795,3262448,14929788,3322373,15523353,14799512,6403741,15147148,15446627,15554982,15544393,15197829,15546580,2949398,15527054,15867788,15198535,13517158","trackcount":"50","objtype":3,"share_url":"\/playlist\/gaana-dj-gaana-international-top-50","max_track_to_be_display":"50","title":"Gaana International Top 50"}
+    
+
+                    
+
+                    
+                
+                
+Gaana International Top 5050 Songs  16,107 Favorites
+                
+                    
+            
+
+                                        {"title":"Lean On","id":"14925783","path":"14925783","track_ids":"14925783","share_url":"\/song\/lean-on-10","object_type":10,"status":"0","source":3,"duration":"176","source_id":"4148160","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/43\/1431943\/crop_175x175_1431943.jpg","albumtitle":"Peace Is the Mission","albumseokey":"peace-is-the-mission-english","seokey":"lean-on-10","artist":"Major Lazer###25401###Major Lazer_25401,DJ Snake###209371###DJ Snake_209371","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Lean On
+                                
+                                        
+                                                Peace Is the Mission         •
+                                 Major Lazer, DJ Snake                                
+                                       
+                                
+                                        {"title":"Perfect","id":"15827553","path":"mp3\/64\/0\/Perfect-1522111\/15827553","track_ids":"15827553","share_url":"\/song\/perfect-319","object_type":10,"status":"0","source":3,"duration":"230","source_id":"4148160","sType":"rtmp","content_source":"8","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/11\/1522111\/crop_175x175_1522111.jpg","albumtitle":"Perfect","albumseokey":"perfect-english-2015","seokey":"perfect-319","artist":"One Direction###53611###One Direction_53611","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Perfect
+                                
+                                        
+                                                Perfect         •
+                                 One Direction                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"561628","object_type":3,"id":"561628","status":"0","track_ids":"14925593,13820385,15922037,15198516,14666107,16002973,14820038,14509946,14687806,3023453,6415009,15197829,13819855,15529304,15525628,15527698,14925783,3375353,6408707,3258104,14042569,14924267,14920687,15520367,14846158,14878237,2222550,15867786,2639658,3367164,14915503,14930966,3117395,2755681,14938071,3366089,2639663,3342357,15119938,15827553,3362628,6414187,3448895,15174217,3395420,16115408,14925534,13645791,14692130,3385516,3216171,14820337,15183813,2713030,2967992,14666851,15487576,3299582,6403741,3243756,15529297,14696332,3289772,15294121,3308949,15529299,2753972,3342356,15523353,15512977,3330615,13513993,15522186,6410950,14131323,3178693,3453040,3268804,3398303,3156231,15197835,15197825,15147148,14810154,13825779,14735567,3320663,601565,3465971,2992350,1969540,3220695,14859732,14937151,3342352,3449103,3336990,14820339,2967156,2626741,2752934,3138418,3339948,3418761,13447742,2728202,3261253,14677178,3234825,2852367","trackcount":"50","objtype":3,"share_url":"\/playlist\/gaana-dj-us-top-50","max_track_to_be_display":"50","title":"US Top 50"}
+    
+
+                    
+
+                    
+                
+                
+US Top 5050 Songs  116,926 Favorites
+                
+                    
+            
+
+                                        {"title":"Hotline Bling","id":"14925593","path":"14925593","track_ids":"14925593","share_url":"\/song\/hotline-bling","object_type":10,"status":"0","source":3,"duration":"267","source_id":"561628","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/19\/1431919\/crop_175x175_1431919.jpg","albumtitle":"Hotline Bling","albumseokey":"hotline-bling","seokey":"hotline-bling","artist":"Drake###7266###Drake_7266","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Hotline Bling
+                                
+                                        
+                                                Hotline Bling         •
+                                 Drake                                
+                                       
+                                
+                                        {"title":"The Hills","id":"13820385","path":"13820385","track_ids":"13820385","share_url":"\/song\/the-hills-8","object_type":10,"status":"0","source":3,"duration":"243","source_id":"561628","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/2\/1281202\/crop_175x175_1281202.jpg","albumtitle":"The Hills","albumseokey":"the-hills","seokey":"the-hills-8","artist":"The Weeknd###109788###The Weeknd_109788","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                The Hills
+                                
+                                        
+                                                The Hills         •
+                                 The Weeknd                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"1697495","object_type":3,"id":"1697495","status":"0","track_ids":"3032150,980887,1649317,1234555,2706628,2720346,549212,1477775,3303118,588662,457541,2698885,1073606,3334847,290354,1629366,1397,925,95547,549576,1507635,549211,289754,657518,588629,1596,95550,605048,1257723,703933,628854,530294,458351,1532256,565829","trackcount":29,"objtype":3,"share_url":"\/playlist\/gaana-dj-best-of-vishal-dadlani","max_track_to_be_display":29,"title":"Best of Vishal Dadlani"}
+    
+
+                    
+
+                    
+                
+                
+Best of Vishal Dadlani29 Songs  3,392 Favorites
+                
+                    
+            
+
+                                        {"title":"Balam Pichkari","id":"980887","path":"980887","track_ids":"980887","share_url":"\/song\/balam-pichkari","object_type":10,"status":"0","source":3,"duration":"296","source_id":"1697495","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/20\/93820\/crop_175x175_93820.jpg","albumtitle":"Yeh Jawaani Hai Deewani","albumseokey":"yeh-jawaani-hai-deewani","seokey":"balam-pichkari","artist":"Vishal Dadlani###143###Vishal Dadlani_143,Shalmali Kholgade###116549###Shalmali Kholgade_116549","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Balam Pichkari
+                                
+                                        
+                                                Yeh Jawaani Hai Deewani         •
+                                 Vishal Dadlani, Shalmali Kholgade                                
+                                       
+                                
+                                        {"title":"Tune Maari Entriyaan","id":"1649317","path":"1649317","track_ids":"1649317","share_url":"\/song\/tune-maari-entriyaan","object_type":10,"status":"0","source":3,"duration":"312","source_id":"1697495","sType":"rtmp","content_source":"3","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/39\/150339\/crop_175x175_150339.jpg","albumtitle":"Gunday","albumseokey":"gunday","seokey":"tune-maari-entriyaan","artist":"K.K.###110###K.K._110,Vishal Dadlani###143###Vishal Dadlani_143,Bappi Lahiri###150###Bappi Lahiri_150,Neeti Mohan###125941###Neeti Mohan_125941","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Tune Maari Entriyaan
+                                
+                                        
+                                                Gunday         •
+                                 K.K., Vishal Dadlani                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"1315470","object_type":3,"id":"1315470","status":"0","track_ids":"45168,3193,45169,48667,11039,24492,62560,11041,48664,3194,5204,44770,3195,3199,3966,3198,5202,5207,5525,25865,41653,44773,46316,48670,57295,62353,62358,62368,63762,74402,81025,91959,93035,66980,93042,122243,45163,45165,11038,11043,48665,45162,48820","trackcount":41,"objtype":3,"share_url":"\/playlist\/gaana-dj-best-of-shankar-jaykishan","max_track_to_be_display":41,"title":"Best of Shankar Jaykishan"}
+    
+
+                    
+
+                    
+                
+                
+Best of Shankar Jaykishan41 Songs  5,251 Favorites
+                
+                    
+            
+
+                                        {"title":"Pyar Hua Iqrar Hua","id":"45168","path":null,"track_ids":"45168","share_url":"\/song\/pyar-hua-iqrar-hua-3","object_type":10,"status":"0","source":3,"duration":"215","source_id":"1315470","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/49\/9949\/crop_175x175_9949.jpg","albumtitle":"Shree 420","albumseokey":"shree-420","seokey":"pyar-hua-iqrar-hua-3","artist":"Lata Mangeshkar###155###Lata Mangeshkar_155,Manna Dey###1031###Manna Dey_1031","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Pyar Hua Iqrar Hua
+                                
+                                        
+                                                Shree 420         •
+                                 Lata Mangeshkar, Manna Dey                                
+                                       
+                                
+                                        {"title":"Ae Nargise Mastana","id":"3193","path":null,"track_ids":"3193","share_url":"\/song\/ae-nargise-mastana","object_type":10,"status":"0","source":3,"duration":"240","source_id":"1315470","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/67\/467\/crop_175x175_467.jpg","albumtitle":"Arzoo","albumseokey":"arzoo","seokey":"ae-nargise-mastana","artist":"Mohammed Rafi###1055###Mohammed Rafi_1055,Shankar-Jaikishan###106396###Shankar-Jaikishan_106396","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Ae Nargise Mastana
+                                
+                                        
+                                                Arzoo         •
+                                 Mohammed Rafi, Shankar-Jaikishan                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"1263471","object_type":3,"id":"1263471","status":"0","track_ids":"1288154,1787701,654362,555700,580849,555705,654364,555704,580607,654358,555714,654367,555709,555713,654363,581353,580968,555708,555703,555725,555728,555706,480500,555707,654371,654359","trackcount":26,"objtype":3,"share_url":"\/playlist\/gaana-dj-best-of-celine-dion","max_track_to_be_display":26,"title":"Best of Celine Dion"}
+    
+
+                    
+
+                    
+                
+                
+Best of Celine Dion26 Songs  1,999 Favorites
+                
+                    
+            
+
+                                        {"title":"My Heart Will Go On","id":"1288154","path":"1288154","track_ids":"1288154","share_url":"\/song\/my-heart-will-go-on-23","object_type":10,"status":"0","source":3,"duration":"309","source_id":"1263471","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/58\/119258\/crop_175x175_119258.jpg","albumtitle":"Titanic: Music From The Motion Picture Soundtrack","albumseokey":"titanic-music-from-the-motion-picture-soundtrack","seokey":"my-heart-will-go-on-23","artist":"Celine Dion###50259###Celine Dion_50259,James Horner###24541###James Horner_24541","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                My Heart Will Go On
+                                
+                                        
+                                                Titanic: Music From The Motion Picture Soundtrack         •
+                                 Celine Dion, James Horner                                
+                                       
+                                
+                                        {"title":"Incredible","id":"1787701","path":"1787701","track_ids":"1787701","share_url":"\/song\/incredible-13","object_type":10,"status":"0","source":3,"duration":"234","source_id":"1263471","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/57\/155057\/crop_175x175_155057.jpg","albumtitle":"Incredible feat. Ne-Yo","albumseokey":"incredible-feat-ne-yo","seokey":"incredible-13","artist":"Celine Dion duet with Ne-Yo###213697###Celine Dion duet with Ne-Yo_213697,Celine Dion###50259###Celine Dion_50259,Ne-yo###7125###Ne-yo_7125","source_url":null,"source_artwork":null,"playtype":"progressive","language":"English","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Incredible
+                                
+                                        
+                                                Incredible feat. Ne-Yo         •
+                                 Celine Dion duet with Ne-Yo, Celine Dion                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"3034638","object_type":3,"id":"3034638","status":"0","track_ids":"30222,20526,2799490,704034,553977,2799495,829,20523,554022,2868065,554046,2799491,222,704037,554050,557890","trackcount":12,"objtype":3,"share_url":"\/playlist\/gaana-dj-hit-jodi-udit-narayan-jatin-lalit","max_track_to_be_display":12,"title":"Musical Bonding Udit Narayan and Jatin Lalit"}
+    
+
+                    
+
+                    
+                
+                
+Musical Bonding Udit Narayan and Jatin Lalit12 Songs  506 Favorites
+                
+                    
+            
+
+                                        {"title":"Pehla Nasha 1","id":"30222","path":null,"track_ids":"30222","share_url":"\/song\/pehla-nasha-1","object_type":10,"status":"0","source":3,"duration":"292","source_id":"3034638","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/99\/22899\/crop_175x175_22899.jpg","albumtitle":"Jo Jeeta Wohi Sikandar","albumseokey":"jo-jeeta-wohi-sikandar","seokey":"pehla-nasha-1","artist":"Sadhana Sargam###10584###Sadhana Sargam_10584,Udit Narayan###5###Udit Narayan_5","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Pehla Nasha 1
+                                
+                                        
+                                                Jo Jeeta Wohi Sikandar         •
+                                 Sadhana Sargam, Udit Narayan                                
+                                       
+                                
+                                        {"title":"Ho Gaya Hai Tujhko To Pyar Sajna","id":"20526","path":null,"track_ids":"20526","share_url":"\/song\/ho-gaya-hai-tujhko-to-pyar-sajna","object_type":10,"status":"0","source":3,"duration":"348","source_id":"3034638","sType":"https","content_source":"4","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/29\/24029\/crop_175x175_24029.jpg","albumtitle":"Dilwale Dulhania Le Jayenge","albumseokey":"dilwale-dulhania-le-jayenge","seokey":"ho-gaya-hai-tujhko-to-pyar-sajna","artist":"Lata Mangeshkar###155###Lata Mangeshkar_155,Udit Narayan###5###Udit Narayan_5","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Ho Gaya Hai Tujhko To Pyar Sajna
+                                
+                                        
+                                                Dilwale Dulhania Le Jayenge         •
+                                 Lata Mangeshkar, Udit Narayan                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+       
+             
+            
+                
+                {"source":3,"source_id":"849988","object_type":3,"id":"849988","status":"0","track_ids":"713800,217,220,144,126,1535442,1537760,1214343,1535920,994618,1214345,35117,221,549710,145,720,1535921,1535441","trackcount":18,"objtype":3,"share_url":"\/playlist\/gaana-dj-best-of-aadesh-shrivastava","max_track_to_be_display":18,"title":"Best of Aadesh Shrivastava"}
+    
+
+                    
+
+                    
+                
+                
+Best of Aadesh Shrivastava18 Songs  95 Favorites
+                
+                    
+            
+
+                                        {"title":"Mora Piya","id":"713800","path":"713800","track_ids":"713800","share_url":"\/song\/mora-piya-18","object_type":10,"status":"0","source":3,"duration":"325.8","source_id":"849988","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/29\/72329\/crop_175x175_72329.jpg","albumtitle":"Wow! That's What I Call Love 2","albumseokey":"wow-thats-what-i-call-love-2","seokey":"mora-piya-18","artist":"Aadesh Shrivastava###12812###Aadesh Shrivastava_12812,Shashi###140353###Shashi_140353,Rosalie Nicholson###8804###Rosalie Nicholson_8804","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Mora Piya
+                                
+                                        
+                                                Wow! That's What I Call Love 2         •
+                                 Aadesh Shrivastava, Shashi                                
+                                       
+                                
+                                        {"title":"Suno Na Suno Na","id":"217","path":"217","track_ids":"217","share_url":"\/song\/suno-na-suno-na","object_type":10,"status":"0","source":3,"duration":"321","source_id":"849988","sType":"rtmp","content_source":"1","albumartwork":"http:\/\/a10.gaanacdn.com\/images\/albums\/23\/23\/crop_175x175_23.jpg","albumtitle":"Chalte Chalte","albumseokey":"chalte-chalte","seokey":"suno-na-suno-na","artist":"Abhijeet Bhattacharya###129179###Abhijeet Bhattacharya_129179,Aadesh Shrivastava###12812###Aadesh Shrivastava_12812","source_url":null,"source_artwork":null,"playtype":"progressive","language":"Hindi","singalong":"","lyrics_url":"","video_url":"","zoomit":0}
+                        
+                                
+                                Suno Na Suno Na
+                                
+                                        
+                                                Chalte Chalte         •
+                                 Abhijeet Bhattacharya, Aadesh Shrivastava                                
+                                       
+                                
+    
+            
+                See all
+               
+           
+           
+    
+            
+           
+        
+
+
+   
+
+    radio mirchi
+    
+        
+      
+      {"akamaiurl":"Pehla-Nasha@177021","title":"Pehla Nasha","id":"10","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/10.jpg","akamaibase":"278451","seokey":"pehla-nasha","description":"Bollywood Music from the 90s","text_color":"#e4e4e4","back_color":"#52002c"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Pehla Nasha	
+            
+             Bollywood Music from the 90s
+                                                    
+        
+  
+      
+      {"akamaiurl":"http:\/\/mirchitapakahd-lh.","title":"Mirchi Tapaka","id":"12","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/12.jpg","akamaibase":"322572","seokey":"mirchi-tapaka","description":"Hottest Tollywood Station","text_color":"#e4e4e4","back_color":"#2c0b02"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Mirchi Tapaka	
+            
+             Hottest Tollywood Station
+                                                    
+        
+  
+      
+      {"akamaiurl":"http:\/\/yopunjabihdlive-lh","title":"Yo! Punjabi","id":"13","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/13.jpg","akamaibase":"345454","seokey":"yo-punjabi","description":"Urban Punjabi Music","text_color":"#e4e4e4","back_color":"#382800"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Yo! Punjabi	
+            
+             Urban Punjabi Music
+                                                    
+        
+  
+      
+      {"akamaiurl":"Filmy-Mirchi@177020","title":"Filmy Mirchi","id":"9","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/9.jpg","akamaibase":"278450","seokey":"filmy-mirchi","description":"Latest Bollywood Music Station","text_color":"#e4e4e4","back_color":"#3b0005"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Filmy Mirchi	
+            
+             Latest Bollywood Music Station
+                                                    
+        
+  
+      
+      {"akamaiurl":"MeethiMirchi@16318","title":"Meethi Mirchi","id":"2","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/2.jpg","akamaibase":"137781","seokey":"meethi-mirchi","description":"Gaano ka Sweetdish","text_color":"#e4e4e4","back_color":"#423a1d"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Meethi Mirchi	
+            
+             Gaano ka Sweetdish
+                                                    
+        
+  
+      
+      {"akamaiurl":"PuraniJeans@14116","title":"Purani Jeans","id":"3","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/3.jpg","akamaibase":"137782","seokey":"purani-jeans","description":"Hindi Retro Station","text_color":"#e4e4e4","back_color":"#462e00"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Purani Jeans	
+            
+             Hindi Retro Station
+                                                    
+        
+  
+      
+      {"akamaiurl":"ClubMirchi@33665","title":"Club Mirchi","id":"5","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/5.jpg","akamaibase":"141320","seokey":"club-mirchi","description":"Hindi English Club Mixes","text_color":"#e4e4e4","back_color":"#3a0d35"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Club Mirchi	
+            
+             Hindi English Club Mixes
+                                                    
+        
+  
+      
+      {"akamaiurl":"MirchiEdge@68862","title":"Mirchi Edge","id":"6","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/6.jpg","akamaibase":"141320","seokey":"mirchi-edge","description":"From the Indian Subcontinent","text_color":"#e4e4e4","back_color":"#2d2d2e"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Mirchi Edge	
+            
+             From the Indian Subcontinent
+                                                    
+        
+  
+      
+      {"akamaiurl":"CassetteClassic@114341","title":"Cassette Classics","id":"4","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/4.jpg","akamaibase":"230536","seokey":"cassette-classics","description":"English Retro Station","text_color":"#e4e4e4","back_color":"#490b20"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Cassette Classics	
+            
+             English Retro Station
+                                                    
+        
+  
+      
+      {"akamaiurl":"RadioRomance@114340","title":"Radio Romance","id":"1","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/1.jpg","akamaibase":"230535","seokey":"radio-romance","description":"English Retro Love Station","text_color":"#e4e4e4","back_color":"#460009"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Radio Romance	
+            
+             English Retro Love Station
+                                                    
+        
+  
+      
+      {"akamaiurl":"Rockistan@114342","title":"Mirchi Rockistan","id":"7","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/7.jpg","akamaibase":"230537","seokey":"mirchi-rockistan","description":"English ROCK station","text_color":"#e4e4e4","back_color":"#001b2b"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Mirchi Rockistan	
+            
+             English ROCK station
+                                                    
+        
+  
+      
+      {"akamaiurl":"Devraag@139961","title":"Devraag","id":"8","artwork":"http:\/\/static.gaana.com\/images\/radio_rect_mirchi\/8.jpg","akamaibase":"250449","seokey":"devraag","description":"Devotional Radio Station ","text_color":"#e4e4e4","back_color":"#00213f"}
+            	
+                
+              
+                            		
+              			
+              	              
+          
+         
+         
+                  	
+                           Devraag	
+            
+             Devotional Radio Station 
+                                                    
+        
+  
+            
+           
+    
+
+
+
+
+
+ 
+
+    gaana radios
+    
+        
+        {"id":"184","title":"Bhakti","seokey":"bhakti","source":14,"source_id":"184","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Bhakti                        
+                        Songs of prayer & devotion
+
+
+                                                                              
+              
+        
+        {"id":"225","title":"Radio Bryan Adams","seokey":"radio-bryan-adams-1","source":14,"source_id":"225","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Bryan Adams                        
+                        All time hits of Bryan Adams
+                                                                              
+              
+        
+        {"id":"179","title":"Bollywood Now","seokey":"bollywood-now-1","source":14,"source_id":"179","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Bollywood Now                        
+                        Filmy hits of the last 5 years
+
+
+                                                                              
+              
+        
+        {"id":"188","title":"Pop Now","seokey":"pop-now-1","source":14,"source_id":"188","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Pop Now                        
+                        Pop hits of the last 5 years
+
+                                                                              
+              
+        
+        {"id":"177","title":"Bollywood Chartbusters","seokey":"bollywood-chartbusters","source":14,"source_id":"177","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Bollywood Chartbusters                        
+                        Songs ruling the hindi charts
+
+
+                                                                              
+              
+        
+        {"id":"200","title":"International Chartbusters","seokey":"international-chartbusters","source":14,"source_id":"200","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            International Chartbusters                        
+                        The best of the US & UK charts
+
+                                                                              
+              
+        
+        {"id":"209","title":"Dil Se Re","seokey":"dil-se-re","source":14,"source_id":"209","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Dil Se Re                        
+                        Romantic hits of the 90s
+
+                                                                              
+              
+        
+        {"id":"208","title":"Jhankar Beats","seokey":"jhankar-beats-1","source":14,"source_id":"208","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Jhankar Beats                        
+                        sizzling hits of the 90s
+
+                                                                              
+              
+        
+        {"id":"180","title":"Bollywood Party","seokey":"bollywood-party","source":14,"source_id":"180","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Bollywood Party                        
+                        Party hits of the last 5 years
+
+
+                                                                              
+              
+        
+        {"id":"197","title":"Party Now","seokey":"party-now-1","source":14,"source_id":"197","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Party Now                        
+                        Party hits of the last 5 years
+
+                                                                              
+              
+        
+        {"id":"182","title":"Love Aaj Ka","seokey":"love-aaj-ka-1","source":14,"source_id":"182","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Love Aaj Ka                        
+                        Recent romantic hits
+
+
+                                                                              
+              
+        
+        {"id":"196","title":"Young Love","seokey":"young-love","source":14,"source_id":"196","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Young Love                        
+                        Romantic hits of the last 5Yrs
+
+                                                                              
+              
+        
+        {"id":"187","title":"Bollywood Workout","seokey":"bollywood-workout","source":14,"source_id":"187","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Bollywood Workout                        
+                        Up tempo work out music
+
+                                                                              
+              
+        
+        {"id":"199","title":"Work Out","seokey":"work-out-1","source":14,"source_id":"199","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Work Out                        
+                        Up tempo music to work out to
+
+                                                                              
+              
+        
+        {"id":"178","title":"Evergreen Bollywood","seokey":"evergreen-bollywood","source":14,"source_id":"178","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Evergreen Bollywood                        
+                        Hits of the last 2 decades
+
+
+                                                                              
+              
+        
+        {"id":"189","title":"Evergreen Hits","seokey":"evergreen-hits-1","source":14,"source_id":"189","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Evergreen Hits                        
+                        Hits of the last two decades
+
+                                                                              
+              
+        
+        {"id":"176","title":"Hindi Gold","seokey":"hindi-gold-1","source":14,"source_id":"176","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Hindi Gold                        
+                        Greatest hindi retro songs 
+
+
+                                                                              
+              
+        
+        {"id":"190","title":"Pop Gold","seokey":"pop-gold","source":14,"source_id":"190","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Pop Gold                        
+                        All time pop favourites
+
+                                                                              
+              
+        
+        {"id":"205","title":"Telugu Chartbusters","seokey":"telugu-chartbusters-1","source":14,"source_id":"205","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Telugu Chartbusters                        
+                        Super Hits
+                                                                              
+              
+        
+        {"id":"206","title":"Tamil Chartbusters","seokey":"tamil-chartbusters-1","source":14,"source_id":"206","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Tamil Chartbusters                        
+                        Semma Hits
+                                                                              
+              
+        
+        {"id":"204","title":"Shabad Gurbani","seokey":"shabad-gurbani","source":14,"source_id":"204","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Shabad Gurbani                        
+                        Music That Invokes Gurkripa
+                                                                              
+              
+        
+        {"id":"203","title":"Punjabiyan Di Party","seokey":"punjabiyan-di-party-1","source":14,"source_id":"203","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Punjabiyan Di Party                        
+                        The Balle Balle Party
+                                                                              
+              
+        
+        {"id":"224","title":"Radio Kumar Sanu","seokey":"radio-kumar-sanu","source":14,"source_id":"224","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Kumar Sanu                        
+                        Evergreen Hits of Kumar Sanu
+                                                                              
+              
+        
+        {"id":"223","title":"Radio Shreya","seokey":"radio-shreya","source":14,"source_id":"223","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Shreya                        
+                        All Time Hits Of Shreya.
+                                                                              
+              
+        
+        {"id":"210","title":"Radio Sonu Nigam","seokey":"radio-sonu-nigam-1","source":14,"source_id":"210","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Sonu Nigam                        
+                        Evergreen hits of Sonu Nigam
+                                                                              
+              
+        
+        {"id":"222","title":"Radio Rafi","seokey":"radio-rafi-1","source":14,"source_id":"222","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Rafi                        
+                        The masterful Rafi Sahab
+
+                                                                              
+              
+        
+        {"id":"221","title":"Radio Lata","seokey":"radio-lata-1","source":14,"source_id":"221","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Lata                        
+                        All Time Classic Lata Songs
+
+                                                                              
+              
+        
+        {"id":"214","title":"Radio Gulzar","seokey":"radio-gulzar","source":14,"source_id":"214","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Gulzar                        
+                        Memorable Hits of Gulzar
+                                                                              
+              
+        
+        {"id":"219","title":"Radio Asha","seokey":"radio-asha-1","source":14,"source_id":"219","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Asha                        
+                        The Very Best of Asha Bhosle
+                                                                              
+              
+        
+        {"id":"207","title":"Radio Pancham","seokey":"radio-pancham-1","source":14,"source_id":"207","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Pancham                        
+                        Pancham Da's all time hits
+                                                                              
+              
+        
+        {"id":"211","title":"Radio Kishore","seokey":"radio-kishore-1","source":14,"source_id":"211","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Kishore                        
+                        The Very Best of Kishore Kumar
+                                                                              
+              
+        
+        {"id":"218","title":"Radio Yuvan","seokey":"radio-yuvan","source":14,"source_id":"218","object_type":14,"objtype":14,"shareurl":null}
+        
+        
+                
+                    
+                    
+
+                        
+                    
+                
+            
+                                    
+                                            Radio Yuvan                        
+                        Best of Yuvan Shankar Raja
+                                                                              
+              
+        
+            
+           
+    
+
+
+    
+
+    discoverMusic for every mood, occasion and genre
+    
+        
+          
+              
+              
+                                    
+                  romance   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  party   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  retro   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  festivals   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  bollywood 90s   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  devotional   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  rock   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  popular playlists   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  rare Gems   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  pop   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  the art of living   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  stars   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  workout   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  kishore   
+              
+              
+          
+        
+          
+              
+              
+                                    
+                  lata   
+              
+              
+          
+        
+          
+             
+    
+
+    
+
+
+        
+To see your favorites & trending songs 
+
+
+            
+            
+        
+    
+
+
+    
+    
+
+
+
+
+
+
+    For a personalized experience, select your music "Languages" here GOT IT  
+
+         
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+amKRA5Ml6y

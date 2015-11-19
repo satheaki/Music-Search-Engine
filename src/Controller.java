@@ -8,12 +8,12 @@ public class Controller {
 
 	public static void main(String[] args) throws Exception {
         String crawlStorageFolder = "C:\\Users\\Aniruddha Kakade\\Desktop\\Crawler";
-        int numberOfCrawlers = 2;
+        int numberOfCrawlers = 1;
 
         CrawlConfig config = new CrawlConfig();
         config.setCrawlStorageFolder(crawlStorageFolder);
         config.setMaxDepthOfCrawling(5);
-        config.setMaxPagesToFetch(10);
+        config.setMaxPagesToFetch(50);
 
         /*
          * Instantiate the controller for this crawl.
@@ -28,7 +28,7 @@ public class Controller {
          * URLs that are fetched and then the crawler starts following links
          * which are found in these pages
          */
-        controller.addSeed("http://gaana.com");
+        controller.addSeed("http://gaana.com/");
 
         /*
          * Start the crawl. This is a blocking operation, meaning that your code
