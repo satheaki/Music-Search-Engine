@@ -1,6 +1,9 @@
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.attribute.FileAttribute;
 import java.util.Set;
+import java.util.UUID;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
@@ -28,25 +31,33 @@ public class CrawlerDemo extends WebCrawler{
      public void visit(Page page) {
          String url = page.getWebURL().getURL();
          System.out.println("URL: " + url);
+         url = url +"\n";
          
          if (page.getParseData() instanceof HtmlParseData) {
              HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
              String text = htmlParseData.getText();
              String html = htmlParseData.getHtml();
              Set<WebURL> links = htmlParseData.getOutgoingUrls();
+             String uuid = UUID.randomUUID().toString();
              //Store in raw file here
-             File file1 = new File(fileName+"_"+Integer.toString(count)+"_"+url+".txt");
-             count++;
-             //File file2 = new File("gaana_text.txt");
+             File file1 = new File(fileName+"_"+uuid+".txt");
+//             try {
+//				Files.setAttribute(file1.toPath(), "url", url);
+//			} catch (IOException e1) {
+//				// TODO Auto-generated catch block
+//				e1.printStackTrace();
+//			}       
+             count++;         
              try {
-				FileUtils.writeStringToFile(file1, text);
-				//FileUtils.writeStringToFile(file2, text);
+            	 String data = url + text;
+            	FileUtils.writeStringToFile(file1, data);
+				//FileUtils.writeStringToFile(file1, text);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
              
-             System.out.println("Text length: " + text.length());
+             //System.out.println("Text length: " + text.length());
              //System.out.println("Html length: " + html.length());
 //             System.out.println("Number of outgoing links: " + links.size());
          }
