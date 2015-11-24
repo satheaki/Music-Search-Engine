@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+import java.util.UUID;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -18,6 +18,7 @@ public class SongParser {
 	static HashMap<String,SongData> index = new HashMap<String, SongData>();
 	
 	String filePath = "C:\\Users\\Aniruddha Kakade\\Desktop\\Academics\\IR\\Project\\raw\\";
+	//static int count = 0;
 	
 	public void putData(JSONObject obj, String url) throws JSONException{
 		
@@ -57,17 +58,13 @@ public class SongParser {
 		
 		String token;
 		Scanner wordScanner = null;
-		boolean isUrl = true;
-		String url = null;
+		
+		String url = "none";
 		
 			wordScanner = new Scanner(file);
 			
 			while (wordScanner.hasNext()) {
 				token = wordScanner.nextLine();
-				if(isUrl){
-					url = token;
-					isUrl = false;
-				}
 				
 				if(token.contains("{")){
 					//System.out.println(token);
@@ -80,6 +77,7 @@ public class SongParser {
 						e1.printStackTrace();
 					}
 					
+					// && obj.getInt("object_type")==10
 					try {
 						if(obj.has("object_type") ){
 							Object current = obj.get("object_type");
@@ -114,7 +112,21 @@ public class SongParser {
 			out.writeBytes(current.getTitle()+";"+current.getArtist()+";"+current.getAlbum()+";"+current.getAlbumArt()+";"+current.getYear()+";"+current.getGenre()+";"+current.getUrl().get(0)+"\n");
 			
 		}
-		out.close();
+		
+//		Properties properties = new Properties();
+//		for (Map.Entry<String,SongData> entry : index.entrySet()) {
+//		    properties.put(entry.getKey(), entry.getValue());
+//		}
+//
+//		try {
+//			properties.store(new FileOutputStream("data.properties"), null);
+//		} catch (FileNotFoundException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 	}
 	
 	public static void main(String[] args) throws JSONException, IOException {
