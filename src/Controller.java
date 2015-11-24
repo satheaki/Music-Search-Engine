@@ -7,13 +7,13 @@ import edu.uci.ics.crawler4j.robotstxt.RobotstxtServer;
 public class Controller { 
 
 	public static void main(String[] args) throws Exception {
-        String crawlStorageFolder = "C:\\My files\\Information Retrieval\\CrawlerData2";
+        String crawlStorageFolder = "C:\\My files\\Information Retrieval\\CrawlerDataSworly";
         int numberOfCrawlers = 1;
 
         CrawlConfig config = new CrawlConfig();
         config.setCrawlStorageFolder(crawlStorageFolder);
         config.setMaxDepthOfCrawling(8);
-        config.setMaxPagesToFetch(10000);
+        config.setMaxPagesToFetch(100000);
         config.setResumableCrawling(true);
         /*
          * Be polite: Make sure that we don't send more than 1 request per
@@ -35,7 +35,7 @@ public class Controller {
          * URLs that are fetched and then the crawler starts following links
          * which are found in these pages
          */
-        controller.addSeed("https://myspace.com/");
+        controller.addSeed("http://sworly.com/");
 
         /*
          * Start the crawl. This is a blocking operation, meaning that your code

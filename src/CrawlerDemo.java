@@ -15,7 +15,7 @@ public class CrawlerDemo extends WebCrawler{
 	
 	public static int count = 0;
 	boolean append=true;
-	public static String fileName = "C:\\My files\\Information Retrieval\\RawDataMySpace\\myspace";
+	public static String fileName = "C:\\My files\\Information Retrieval\\NewRawDataSworly\\sworly";
 //	public static String fileName = "sworly";
 	 private final static Pattern FILTERS = Pattern.compile(".*(\\.(css|js|gif|jpg"
              + "|png|mp3|mp3|zip|gz))$");
@@ -24,7 +24,7 @@ public class CrawlerDemo extends WebCrawler{
      public boolean shouldVisit(Page referringPage, WebURL url) {
          String href = url.getURL().toLowerCase();
          return !FILTERS.matcher(href).matches()
-                && href.startsWith("https://myspace.com/");
+                && href.startsWith("http://sworly.com/");
      }
 
 	 @Override
